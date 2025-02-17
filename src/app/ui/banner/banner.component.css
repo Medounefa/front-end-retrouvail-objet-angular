@@ -1,0 +1,18 @@
+.banner{
+    background-color: aqua;
+    background-image: url("../../../assets/images/banner.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 150px;
+}
+
+.info{
+    color: black;
+    font-size: 35px;
+    font-weight: bold;
+    font-style: oblique;
+}
+.buttonNav{
+    margin-top: 75px;
+    margin-left: 150px;
+}
